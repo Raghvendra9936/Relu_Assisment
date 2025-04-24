@@ -1,7 +1,6 @@
 ## 🎥 Demo Video
 
-[Click here to watch the video](https://github.com/Raghvendra9936/Relu_Assisment/blob/main/DesignPage%20-%20Made%20with%20Clipchamp_1745502953875.mp4)
-
+https://github.com/user-attachments/assets/4a0de649-1ae0-467c-8827-36c292dca95b
 
 # Getting Started with Create React App
 
