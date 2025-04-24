@@ -1,5 +1,6 @@
-[![Watch the video](https://github.com/Raghvendra9936/Relu_Assisment/blob/main/DesignPage%20-%20Made%20with%20Clipchamp_1745502953875.mp4)]
+## 🎥 Demo Video
 
+[Click here to watch the video](https://github.com/Raghvendra9936/Relu_Assisment/blob/main/DesignPage%20-%20Made%20with%20Clipchamp_1745502953875.mp4)
 
 
 # Getting Started with Create React App
